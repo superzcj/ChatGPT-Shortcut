@@ -113,14 +113,14 @@ export const Tags: { [type in TagType]: Tag } = {
     color: "#fe0999",
   },
 
-  academic: {
-    label: translate({ message: "学术/教师" }),
-    description: translate({
-      message: "与学术或学校相关的人和事物",
-      id: "showcase.tag.academic.description",
-    }),
-    color: "#fe6829",
-  },
+//   academic: {
+//     label: translate({ message: "学术/教师" }),
+//     description: translate({
+//       message: "与学术或学校相关的人和事物",
+//       id: "showcase.tag.academic.description",
+//     }),
+//     color: "#fe6829",
+//   },
 
   games: {
     label: translate({ message: "游戏" }),
@@ -140,14 +140,14 @@ export const Tags: { [type in TagType]: Tag } = {
     color: "#4267b2", // Facebook blue
   },
 
-  interpreter: {
-    label: translate({ message: "终端/解释器" }),
-    description: translate({
-      message: "终端/解释器",
-      id: "showcase.tag.interpreter.description",
-    }),
-    color: "#ffa11c", // Facebook blue
-  },
+//   interpreter: {
+//     label: translate({ message: "终端/解释器" }),
+//     description: translate({
+//       message: "终端/解释器",
+//       id: "showcase.tag.interpreter.description",
+//     }),
+//     color: "#ffa11c", // Facebook blue
+//   },
 
   language: {
     label: translate({ message: "语言/翻译" }),
@@ -158,14 +158,14 @@ export const Tags: { [type in TagType]: Tag } = {
     color: "#39ca30",
   },
 
-  speech: {
-    label: translate({ message: "辩论/演讲" }),
-    description: translate({
-      message: "辩论/演讲",
-      id: "showcase.tag.speech.description",
-    }),
-    color: "#9c1d10",
-  },
+//   speech: {
+//     label: translate({ message: "辩论/演讲" }),
+//     description: translate({
+//       message: "辩论/演讲",
+//       id: "showcase.tag.speech.description",
+//     }),
+//     color: "#9c1d10",
+//   },
 
   comments: {
     label: translate({ message: "点评/评鉴" }),
@@ -203,14 +203,14 @@ export const Tags: { [type in TagType]: Tag } = {
     color: "#BC9F77",
   },
 
-  doctor: {
-    label: translate({ message: "医生" }),
-    description: translate({
-      message: "医生",
-      id: "showcase.tag.doctor.description",
-    }),
-    color: "#0e7774",
-  },
+//   doctor: {
+//     label: translate({ message: "医生" }),
+//     description: translate({
+//       message: "医生",
+//       id: "showcase.tag.doctor.description",
+//     }),
+//     color: "#0e7774",
+//   },
 
   finance: {
     label: translate({ message: "金融顾问" }),
@@ -221,23 +221,23 @@ export const Tags: { [type in TagType]: Tag } = {
     color: "#14cfc3",
   },
 
-  music: {
-    label: translate({ message: "音乐" }),
-    description: translate({
-      message: "音乐",
-      id: "showcase.tag.music.description",
-    }),
-    color: "#5cecdc",
-  },
+//   music: {
+//     label: translate({ message: "音乐" }),
+//     description: translate({
+//       message: "音乐",
+//       id: "showcase.tag.music.description",
+//     }),
+//     color: "#5cecdc",
+//   },
 
-  professional: {
-    label: translate({ message: "行业顾问" }),
-    description: translate({
-      message: "律师、茶艺师等需要专业知识的岗位",
-      id: "showcase.tag.professional.description",
-    }),
-    color: "#ffcfc3",
-  },
+//   professional: {
+//     label: translate({ message: "行业顾问" }),
+//     description: translate({
+//       message: "律师、茶艺师等需要专业知识的岗位",
+//       id: "showcase.tag.professional.description",
+//     }),
+//     color: "#ffcfc3",
+//   },
 
   contribute: {
     label: translate({ message: "投稿" }),
